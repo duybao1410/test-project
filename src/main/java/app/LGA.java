@@ -36,4 +36,9 @@ public class LGA {
    public int getYear() {
       return year;
    }
+
+   public static void process() {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'process'");
+   }
 }
